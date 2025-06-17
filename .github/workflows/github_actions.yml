@@ -20,7 +20,7 @@ jobs:
         uses: astral-sh/setup-uv@v5
         
       - name: 24f2001055@ds.study.iitm.ac.in
-        run: echo "Hello, world! "
+        run: echo "Hello, world!"
 
       - name: Run scraper
         run: | # python
